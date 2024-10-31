@@ -1,0 +1,145 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Particles Extension for Elementor\n"
+"POT-Creation-Date: 2024-05-28 13:22+0530\n"
+"PO-Revision-Date: 2023-10-02 20:07+0530\n"
+"Last-Translator: \n"
+"Language-Team: M Gogul Saravanan\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: libraries/admin/class-action-links.php:44
+msgid "Support"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:54
+#, php-format
+msgid "%s : Particles"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:60
+msgid "Enable Particles"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:62
+#: libraries/elementor/classes/class-particles.php:110
+#: libraries/elementor/classes/class-particles.php:169
+msgid "Yes"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:63
+#: libraries/elementor/classes/class-particles.php:111
+#: libraries/elementor/classes/class-particles.php:170
+msgid "No"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:68
+msgid "Number"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:79
+msgid "Shapes"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:84
+msgid "Circle"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:85
+msgid "Square"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:86
+msgid "Star"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:87
+msgid "Triangle"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:97
+msgid "Size"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:108
+msgid "Enable Random Size"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:119
+msgid "Animation Direction"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:124
+msgid "None"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:128
+msgid "Top"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:132
+msgid "Top Right"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:136
+msgid "Right"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:140
+msgid "Bottom Right"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:144
+msgid "Bottom"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:148
+msgid "Bottom Left"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:152
+msgid "Left"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:156
+msgid "Top Left"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:167
+msgid "Enable Linked Line"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:178
+msgid "Linked Line Color"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:189
+msgid "Color"
+msgstr ""
+
+#: libraries/elementor/classes/class-particles.php:193
+msgid "Colors"
+msgstr ""
+
+#: particles-extension-for-elementor.php:145
+#, php-format
+msgid ""
+"The %1$s Particles extension for Elementor %2$s plugin requires "
+"%1$sElementor%2$s plugin. Kindly install and activate it."
+msgstr ""
+
+#: particles-extension-for-elementor.php:165
+msgid "Activate Elementor"
+msgstr ""
+
+#: particles-extension-for-elementor.php:177
+msgid "Install Elementor"
+msgstr ""
